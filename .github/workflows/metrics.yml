@@ -44,3 +44,5 @@ jobs:
           debug: yes
           plugin_languages: yes
           plugin_languages_threshold: 1%
+          plugin_languages_ignored: G-code, html
+          plugin_languages_recent_days: 120
